@@ -6,6 +6,8 @@ public class TC001 {
 
         //trying new features
 
-        //created negatif testing
+        //created negative testing
+
+        //create positive testing
     }
 }
